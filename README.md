@@ -1,4 +1,4 @@
-# AngularExample
+# Angular Demo 1
 
 `npm install`
 
