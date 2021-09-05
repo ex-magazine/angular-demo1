@@ -6,7 +6,31 @@
 
 `ng run server`
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+
+## This tutorial is divided into the following steps:
+
+Step 1 — Installing Angular CLI 12.2.3
+
+Step 2 — Creating your Angular 12.2.3 Project
+
+Step 3 — Adding Angular HttpClient
+
+Step 4 — Creating Components
+
+Step 5 — Adding Routing
+
+Step 6 — Building the UI with Angular Material Components
+
+Step 7 — Mocking a REST API
+
+Step 8 — Consuming the REST API with Angular HttpClient
+
+Step 9 — Handling HTTP Errors
+
+Step 10 — Adding Pagination
+
+Step 11 — Building and Deploying your Angular Application to Firebase
 
 ## Development server
 
