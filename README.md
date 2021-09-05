@@ -1,8 +1,10 @@
 # AngularExample
 
-npm install
-ng serve
-ng run server
+`npm install`
+
+`ng serve`
+
+`ng run server`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
